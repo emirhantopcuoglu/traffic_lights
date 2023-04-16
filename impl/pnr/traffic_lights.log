@@ -1,0 +1,15 @@
+Reading netlist file: "C:\Users\emirh\traffic_lights\impl\gwsynthesis\traffic_lights.vg"
+Parsing netlist file "C:\Users\emirh\traffic_lights\impl\gwsynthesis\traffic_lights.vg" completed
+Processing netlist completed
+Reading constraint file: "C:\Users\emirh\traffic_lights\src\traffic_lights.cst"
+Physical Constraint parsed completed
+Running placement......
+ERROR  (PR2028) : The constrained location is useless in current package
+ERROR  (PR2017) : 'led[1]' cannot be placed according to constraint, for the location is a dedicated pin (JTAG)
+ERROR  (PR2028) : The constrained location is useless in current package
+ERROR  (PR2017) : 'led[0]' cannot be placed according to constraint, for the location is a dedicated pin (SSPI)
+Generate file "C:\Users\emirh\traffic_lights\impl\pnr\traffic_lights.pin.html" completed
+Generate file "C:\Users\emirh\traffic_lights\impl\pnr\traffic_lights.rpt.html" completed
+Generate file "C:\Users\emirh\traffic_lights\impl\pnr\traffic_lights.rpt.txt" completed
+Sun Apr 16 17:03:24 2023
+
